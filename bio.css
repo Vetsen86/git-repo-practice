@@ -1,0 +1,28 @@
+h1 {
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 10px 0;
+    margin-bottom: 20px;
+}
+
+#div1 {
+    float: left;
+    padding: 0 20px;
+}
+
+div {
+    float: left;
+    width: 45%;
+    padding: 0 20px;
+
+}
+
+img {
+    float: left;
+    margin-right: 20px;
+}
+
+p {
+    margin-left: 50px;
+}
